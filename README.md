@@ -5,3 +5,5 @@
 `python scripts/train_model.py`
 
 `python scripts/evaluate_model.py`
+
+[ROC curve result](plots/ROC_representation.html)
